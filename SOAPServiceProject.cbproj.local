@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.000,D:\TVZ\Semestar 5\Napredne tehnike programiranja\WebModuleUnit1.cpp=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\WebModuleUnit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,=D:\TVZ\Semestar 5\Napredne tehnike programiranja\WebModuleUnit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.677,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Project1.cbproj=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,D:\TVZ\Semestar 5\Napredne tehnike programiranja\WebModuleUnit1.dfm=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\WebModuleUnit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\SOAPCryptServicePCH1.h=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\SOAPServiceProjectPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\Project1.cbproj=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\SOAPCryptService.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.848,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\Project1PCH1.h=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\SOAPCryptServicePCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,D:\TVZ\Semestar 5\Napredne tehnike programiranja\CryptService.cpp=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\CryptService.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.483,=D:\TVZ\Semestar 5\Napredne tehnike programiranja\CryptService.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.408,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\SOAPCryptService.cbproj=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\SOAPServiceProject.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,D:\TVZ\Semestar 5\Napredne tehnike programiranja\CryptService.h=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\CryptService.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.232,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Project1PCH1.h=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,D:\TVZ\Semestar 5\Napredne tehnike programiranja\WebModuleUnit1.h=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\WebModuleUnit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
