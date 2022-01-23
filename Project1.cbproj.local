@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022.01.23 15:49:52.270,=D:\TVZ\Semestar 5\Napredne tehnike programiranja\WebModuleUnit1.cpp</Transaction>
+    <Transaction>2022.01.23 15:49:52.359,=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Project1PCH1.h</Transaction>
+    <Transaction>2022.01.23 15:50:09.483,=D:\TVZ\Semestar 5\Napredne tehnike programiranja\CryptService.cpp</Transaction>
+    <Transaction>2022.01.23 15:50:40.549,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\CryptService.h=D:\TVZ\Semestar 5\Napredne tehnike programiranja\CryptService.h</Transaction>
+    <Transaction>2022.01.23 15:50:40.549,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\CryptService.cpp=D:\TVZ\Semestar 5\Napredne tehnike programiranja\CryptService.cpp</Transaction>
+    <Transaction>2022.01.23 15:50:42.000,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\WebModuleUnit1.h=D:\TVZ\Semestar 5\Napredne tehnike programiranja\WebModuleUnit1.h</Transaction>
+    <Transaction>2022.01.23 15:50:42.000,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\WebModuleUnit1.dfm=D:\TVZ\Semestar 5\Napredne tehnike programiranja\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2022.01.23 15:50:42.000,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\WebModuleUnit1.cpp=D:\TVZ\Semestar 5\Napredne tehnike programiranja\WebModuleUnit1.cpp</Transaction>
+    <Transaction>2022.01.23 15:50:43.232,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\Project1PCH1.h=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Project1PCH1.h</Transaction>
+    <Transaction>2022.01.23 15:50:44.677,D:\TVZ\Semestar 5\Napredne tehnike programiranja\Projekt\soap-dll\Project1.cbproj=D:\TVZ\Semestar 5\Napredne tehnike programiranja\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
