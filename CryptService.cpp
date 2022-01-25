@@ -19,23 +19,23 @@ private:
   TCodec *Codec1 = new TCodec(NULL);
 public:
   __fastcall TCryptServiceImpl()  {
-	Codec1->CryptoLibrary = CryptographicLibrary1;
-	Codec1->StreamCipherId = "native.StreamToBlock";
-	Codec1->BlockCipherId = "native.AES-256";
-	Codec1->ChainModeId = "native.CBC";
-	Codec1->Password = "lozinka";
+  	Codec1->CryptoLibrary = CryptographicLibrary1;
+  	Codec1->StreamCipherId = "native.StreamToBlock";
+  	Codec1->BlockCipherId = "native.AES-256";
+  	Codec1->ChainModeId = "native.CBC";
+  	Codec1->Password = "lozinka";
   }
 
   UnicodeString encrypt(UnicodeString string) {
-	String encrypted;
-	Codec1->EncryptString(string, encrypted, TEncoding::UTF8);
+  	String encrypted;
+  	Codec1->EncryptString(string, encrypted, TEncoding::UTF8);
 
     return encrypted;
   }
 
   UnicodeString decrypt(UnicodeString string) {
-	String decrypted;
-	Codec1->DecryptString(decrypted, string, TEncoding::UTF8);
+  	String decrypted;
+  	Codec1->DecryptString(decrypted, string, TEncoding::UTF8);
 
     return decrypted;
   }
